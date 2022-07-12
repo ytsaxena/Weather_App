@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="wind">Wind</string>
+    <string name="dash">|</string>
+    <string name="noida">Noida</string>
+    <string name="uttar_pradesh">Uttar Pradesh</string>
+    <string name="time">Time</string>
+    <string name="photo">photo</string>
+    <string name="temp">temp</string>
+    <string name="humidity">Humidity</string>
+</resources>
